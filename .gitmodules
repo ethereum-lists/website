@@ -1,0 +1,9 @@
+[submodule "chains"]
+	path = chains
+	url = https://github.com/ethereum-lists/chains
+[submodule "tokens"]
+	path = tokens
+	url = https://github.com/ethereum-lists/tokens
+[submodule "4bytes"]
+	path = 4bytes
+	url = https://github.com/ethereum-lists/4bytes
